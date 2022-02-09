@@ -3,6 +3,11 @@
 
 A default Divina package that you can extend!
 
+Usage
+-----
+
+:code:`divina build`
+
 License
 ~~~~~~~
 
