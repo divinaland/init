@@ -9,7 +9,7 @@
 Package = {
   name = "change_me",
   version = "0.1.0",
-  description = "A default Divina project that you can extend!",
+  description = "A default Divina package that you can extend!",
   compile_options = {},
   minimum_divina_version = Divina.version,
   sources = {
