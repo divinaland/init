@@ -1,7 +1,7 @@
 :code:`change-me`
 =================
 
-A default Divina project that you can extend!
+A default Divina package that you can extend!
 
 License
 ~~~~~~~
