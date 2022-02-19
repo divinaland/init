@@ -2,7 +2,7 @@ global main
 extern printf
 
 section .rodata
-message: db "Hello World!", 13, 10, 0
+message: db "Hello, World!", 13, 10, 0
 
 section .text
 main:
